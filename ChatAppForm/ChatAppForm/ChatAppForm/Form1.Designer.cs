@@ -32,11 +32,10 @@
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.panel3 = new System.Windows.Forms.Panel();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.listBoxMsg = new System.Windows.Forms.ListBox();
-            this.chatBox = new ChatAppForm.ChatBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.btnSendMessage = new System.Windows.Forms.Button();
             this.messageBox = new System.Windows.Forms.TextBox();
+            this.chatBox = new ChatAppForm.ChatBox();
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -66,32 +65,12 @@
             // 
             this.panel4.AutoScroll = true;
             this.panel4.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.panel4.Controls.Add(this.listBoxMsg);
             this.panel4.Controls.Add(this.chatBox);
             this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panel4.Location = new System.Drawing.Point(0, 0);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(614, 525);
             this.panel4.TabIndex = 1;
-            // 
-            // listBoxMsg
-            // 
-            this.listBoxMsg.FormattingEnabled = true;
-            this.listBoxMsg.Location = new System.Drawing.Point(6, 12);
-            this.listBoxMsg.Name = "listBoxMsg";
-            this.listBoxMsg.Size = new System.Drawing.Size(605, 147);
-            this.listBoxMsg.TabIndex = 1;
-            this.listBoxMsg.SelectedIndexChanged += new System.EventHandler(this.listBoxMsg_SelectedIndexChanged);
-            // 
-            // chatBox
-            // 
-            this.chatBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.chatBox.BackColor = System.Drawing.SystemColors.ButtonFace;
-            this.chatBox.Location = new System.Drawing.Point(6, 3);
-            this.chatBox.Name = "chatBox";
-            this.chatBox.Size = new System.Drawing.Size(605, 0);
-            this.chatBox.TabIndex = 0;
             // 
             // panel1
             // 
@@ -132,6 +111,16 @@
             this.messageBox.Text = "Unesite poruku ovde...";
             this.messageBox.MouseClick += new System.Windows.Forms.MouseEventHandler(this.messageBox_MouseClick);
             // 
+            // chatBox
+            // 
+            this.chatBox.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.chatBox.BackColor = System.Drawing.SystemColors.ButtonFace;
+            this.chatBox.Location = new System.Drawing.Point(6, 3);
+            this.chatBox.Name = "chatBox";
+            this.chatBox.Size = new System.Drawing.Size(605, 0);
+            this.chatBox.TabIndex = 0;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -158,7 +147,6 @@
         private System.Windows.Forms.Panel panel4;
         private ChatBox chatBox;
         private System.Windows.Forms.Button btnSendMessage;
-        private System.Windows.Forms.ListBox listBoxMsg;
     }
 }
 

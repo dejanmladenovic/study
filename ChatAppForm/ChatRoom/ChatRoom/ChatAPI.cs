@@ -122,7 +122,8 @@ namespace ChatRoom
             baza.ListRightPush(nameListUserName, name);
 
             this.userName = name;
-            chatForm.DisplayMessage(new Message(UserName, new Color(255, 0, 0, 0), "Korisnik " + "'" + UserName + "'" + " se pridruzio grupi",""));           
+            chatForm.DisplayMessage(new Message(UserName, new Color(0, 0, 250, 0), "Korisnik " + "'" + UserName + "'" + " se pridruzio grupi", ""));
+
             return true;
         }
         public bool ExistsInTheList(RedisValue[] lista, string name)   

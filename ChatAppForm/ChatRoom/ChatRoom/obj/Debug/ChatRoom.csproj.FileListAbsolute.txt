@@ -166,3 +166,31 @@ E:\fax\IV godina\VII semestar\Napredne baze podataka\I projekat redis\ChatAppFor
 E:\fax\IV godina\VII semestar\Napredne baze podataka\I projekat redis\ChatAppForm\ChatAppForm\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csproj.CopyComplete
 E:\fax\IV godina\VII semestar\Napredne baze podataka\I projekat redis\ChatAppForm\ChatAppForm\ChatRoom\ChatRoom\obj\Debug\ChatRoom.dll
 E:\fax\IV godina\VII semestar\Napredne baze podataka\I projekat redis\ChatAppForm\ChatAppForm\ChatRoom\ChatRoom\obj\Debug\ChatRoom.pdb
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\ChatRoom.dll.config
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\ChatRoom.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\ChatRoom.pdb
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\Newtonsoft.Json.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\Pipelines.Sockets.Unofficial.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\StackExchange.Redis.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Buffers.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.IO.Pipelines.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Memory.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Numerics.Vectors.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Threading.Channels.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\Newtonsoft.Json.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\Pipelines.Sockets.Unofficial.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\StackExchange.Redis.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Buffers.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.IO.Pipelines.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Memory.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Numerics.Vectors.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Threading.Channels.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csprojAssemblyReference.cache
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\obj\Debug\ChatRoom.csproj.CopyComplete
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\obj\Debug\ChatRoom.dll
+E:\Fakultet\Semestar VII\Napredne baze podataka\study\ChatAppForm\ChatRoom\ChatRoom\obj\Debug\ChatRoom.pdb

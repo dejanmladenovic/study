@@ -26,7 +26,7 @@ namespace ChatAppForm
 
             if(msgType == 0) //in
             {
-                this.BackColor = Color.LightGray;
+                this.BackColor = Color.SkyBlue;
             }
             else
             {

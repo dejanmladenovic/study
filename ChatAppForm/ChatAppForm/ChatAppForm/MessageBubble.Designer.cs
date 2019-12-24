@@ -43,8 +43,7 @@
             this.lblMessage.Name = "lblMessage";
             this.lblMessage.Size = new System.Drawing.Size(363, 66);
             this.lblMessage.TabIndex = 0;
-            this.lblMessage.Text = "Nulla ac risus at purus tincidunt maximus. Duis vel faucibus sem. Ut malesuada ur" +
-    "na nulla, vel mattis nunc porttitor id. Nunc a nisi odio. Vestibulu";
+            this.lblMessage.Text = "risu";
             // 
             // lblTime
             // 
